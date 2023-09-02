@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Lomo Vetado",
+    "precio": 11990,
+    "imagen": "imagenes/lomovetado.jpg",
+    "categoria": "Vacuno"
+  },
+  {
+    "nombre": "Chuleta Parrillera",
+    "precio": 6500,
+    "imagen": "imagenes/chuleta.jpg",
+    "categoria": "Cerdo"
+  },
+  {
+    "nombre": "Entrañas",
+    "precio": 9730,
+    "imagen": "imagenes/entraña.jpg",
+    "categoria": "Vacuno"
+  },
+  {
+    "nombre": "Prietas",
+    "precio": 4600,
+    "imagen": "imagenes/prieta.jpg",
+    "categoria": "Embutidos"
+  },
+  {
+    "nombre": "Chorizo Parrillero",
+    "precio": 5990,
+    "imagen": "imagenes/chorizo.jpg",
+    "categoria": "Embutidos"
+  },
+  {
+    "nombre": "Butifarras",
+    "precio": 3600,
+    "imagen": "imagenes/butifarra.jpg",
+    "categoria": "Embutidos"
+  },
+  {
+    "nombre": "Lomo Liso",
+    "precio": 9390,
+    "imagen": "imagenes/lomoliso.jpg",
+    "categoria": "Vacuno"
+  },
+  {
+    "nombre": "Asado Carnicero",
+    "precio": 7000,
+    "imagen": "imagenes/carnicero.jpg",
+    "categoria": "Vacuno"
+  },
+  {
+    "nombre": "Cerdo Marinado",
+    "precio": 6990,
+    "imagen": "imagenes/cerdomarinado.jpg",
+    "categoria": "Cerdo"
+  },
+  {
+    "nombre": "Abastero",
+    "precio": 5450,
+    "imagen": "imagenes/abastero.jpg",
+    "categoria": "Vacuno"
+  }
+]
